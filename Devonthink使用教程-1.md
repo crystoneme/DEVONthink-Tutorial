@@ -1,6 +1,6 @@
 #Devonthink使用教程
 
-Author: [crystone](me@crystone.me)
+Author: [crystone](https://twitter.com/crystone)
 
 Date: 2015/10/30
 
@@ -19,7 +19,7 @@ Devonthink管理文件有两种方式，index索引方式，import导入方式�
 
 将文件索引进devonthink数据库中：
 
-![文档索引进DT](/Users/Levi/workspace/github/Devonthink-Tutorial/images/文档索引进DT.png)
+![文档索引进DT](./images/文档索引进DT.png)
 
 
 
@@ -34,7 +34,7 @@ Devonthink管理文件有两种方式，index索引方式，import导入方式�
 * 将文件拖动到devonthink窗口的相应数据库的相应文件夹下面。并且也可以保持原始文件夹目录结构不变。
 * 通过菜单，可以将多种格式的数据导入到devonthink中
 
-![文档导入进DT](/Users/Levi/workspace/github/Devonthink-Tutorial/images/文档导入进DT.png)
+![文档导入进DT](./images/文档导入进DT.png)
 
 图中可以看出，devonthink支持导入多种的文件格式。
 
@@ -52,15 +52,15 @@ Devonthink管理文件有两种方式，index索引方式，import导入方式�
 
 下面是导入的文件在devonthink内部数据库的存储：（可以点击文件 → 右键 → Show in Finder查看）
 
-![文件内部存储](/Users/Levi/workspace/github/Devonthink-Tutorial/images/文件内部存储.png)
+![文件内部存储](./images/文件内部存储.png)
 
 索引方式只是一个链结指向原文件。Show in Finder打开的是原文件所在的文件夹。
 
-![索引文件](/Users/Levi/workspace/github/Devonthink-Tutorial/images/索引文件.png)
+![索引文件](./images/索引文件.png)
 
 如果索引指向的文件发生了变化，devonthink是不会自动知道的，需要你手动进行更新索引：
 
-![索引更新](/Users/Levi/workspace/github/Devonthink-Tutorial/images/索引更新.png)
+![索引更新](./images/索引更新.png)
 
 下一章讲解如何新建数据库，如何导入/索引各种数据，数据库加密，以及到底选择单数据库还是多个数据库。
 

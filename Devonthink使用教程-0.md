@@ -1,6 +1,6 @@
 #Devonthink使用教程
 
-Author: [crystone](me@crystone.me)
+Author: [crystone](https://twitter.com/crystone)
 
 Date: 2015/10/23
 
