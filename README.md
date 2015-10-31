@@ -6,3 +6,4 @@
 
 当然，文笔一般，希望能把要点说清楚就行。
 
+更详细的使用说明，可以参考[官方的文档](http://www.devontechnologies.com/support/tips-and-tutorials.html)，[youtube频道](https://www.youtube.com/user/devontechnologies/featured)也有很多视频教程。
